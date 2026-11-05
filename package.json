@@ -1,0 +1,19 @@
+{
+  "name": "antigravity-fav-skills",
+  "version": "1.0.0",
+  "description": "Curated collection of top favorite skills for Antigravity and Agent Skills compatible AI assistants.",
+  "private": true,
+  "scripts": {
+    "test": "python3 test_skills.py",
+    "typecheck": "echo 'Typecheck: OK (No TypeScript compilation required)'"
+  },
+  "keywords": [
+    "antigravity",
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "skills"
+  ],
+  "author": "Vamshidathrika",
+  "license": "Apache-2.0"
+}
